@@ -1,0 +1,23 @@
+<h3>40923107</h3>
+<p><span style="background-color: #ff9900;">期末考_第一題</span></p>
+<p><span style="color: #000000; background-color: #ffa600;">繪製零件</span></p>
+<p>影片</p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WCZbprBwGww" title="YouTube video player"></iframe></p>
+<p></p>
+<p></p>
+<p></p>
+<p><span style="background-color: #ffa600;">匯入CoppeliaSIM</span></p>
+<p>操作影片</p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/B-f_8CIbWnQ" title="YouTube video player"></iframe></p>
+<p></p>
+<p><span style="background-color: #00ff00;">mearm</span></p>
+<p>第一軸</p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/EUFZQ3zHoX8" title="YouTube video player"></iframe></p>
+<p></p>
+<p>第二軸</p>
+<p><iframe width="1159" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/mB1xcg99jus" title="YouTube video player"></iframe></p>
+<p></p>
+<p>第三軸</p>
+<p><iframe width="1158" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/JRR9yoj6hJw" title="YouTube video player"></iframe></p>
+<p>三軸組立、作動完成</p>
+<p><iframe width="1158" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M_8JTl98g8M" title="YouTube video player"></iframe></p>
